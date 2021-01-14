@@ -1,32 +1,4 @@
-# A statically generated blog example using Next.js and Storyblok
-
-This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [Storyblok](https://www.storyblok.com/) as the data source.
-
-## Demo
-
-[https://next-blog-storyblok.now.sh/](https://next-blog-storyblok.now.sh/)
-
-## Deploy your own
-
-Once you have access to [the environment variables you'll need](#step-6-set-up-environment-variables), deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/cms-storyblok&project-name=cms-storyblok&repository-name=cms-storyblok&env=STORYBLOK_PREVIEW_SECRET,STORYBLOK_API_KEY&envDescription=Required%20to%20connect%20the%20app%20with%20Storyblok&envLink=https://vercel.link/cms-storyblok-env)
-
-### Related examples
-
-- [WordPress](/examples/cms-wordpress)
-- [DatoCMS](/examples/cms-datocms)
-- [Sanity](/examples/cms-sanity)
-- [TakeShape](/examples/cms-takeshape)
-- [Prismic](/examples/cms-prismic)
-- [Contentful](/examples/cms-contentful)
-- [Agility CMS](/examples/cms-agilitycms)
-- [Cosmic](/examples/cms-cosmic)
-- [Strapi](/examples/cms-strapi)
-- [ButterCMS](/examples/cms-buttercms)
-- [GraphCMS](/examples/cms-graphcms)
-- [Kontent](/examples/cms-kontent)
-- [Blog Starter](/examples/blog-starter)
+# Learn To Sail Online PWA generated with Next and Storyblok
 
 ## How to use
 
