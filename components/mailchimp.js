@@ -47,7 +47,7 @@ export default function Mailchimp(props) {
               you are at the right place. We are currently working on an amazing
               app with where you can learn everything you need to learn sailing.
               Our online sailing courses will be launched soon! Sign up now and
-              get an early-bird diescount of 50% for one year¨
+              get an early-bird discount of 50% for the first year!
             </p>
 
             <div className="indicates-required">
